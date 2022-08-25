@@ -1,0 +1,26 @@
+<table border="1" cellpadding="10">
+        <tr>
+            <td>Data Customer</td>
+            <td>isi data</td>
+        </tr>
+        <tr>
+            <td>Nomor urut</td>
+            <td>.....</td>
+        </tr>
+        <tr>
+            <td>Nomor customer</td>
+            <td>.....</td>
+        </tr>
+        <tr>
+            <td>Nama lengkap</td>
+            <td>.....</td>
+        </tr>
+        <tr>
+            <td>Email</td>
+            <td>.....</td>
+        </tr>
+        <tr>
+            <td>Total pengeluaran bulan ini (Rp)</td>
+            <td>Rp.....</td>
+        </tr>
+    </table>
